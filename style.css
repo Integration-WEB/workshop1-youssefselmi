@@ -214,6 +214,33 @@ ________________________
     margin-bottom: 50px;
     background-color: var(--primary-100);
 }
+
+.font__container {
+    height: auto;
+    margin: 10px;
+    font-size: 25px;
+    }
+    .font__1em {
+    font-size: 1em;
+    }
+    .font__1rem {
+    font-size: 1rem;
+    }
+    .font__100percent {
+    font-size: 100%;
+
+
+
+}
+.font__2em {
+font-size: 2em;
+}
+.font__2rem {
+font-size: 2rem;
+}
+.font__200percent {
+font-size: 200%;
+}
 /* Extra small devices (phones, 600px and down) */
 
 
